@@ -1,0 +1,6 @@
+packets_per_second,bytes_per_second,avg_packet_size,flow_duration,unique_src_ips,unique_dst_ports,Label
+200,50000,400,10,2,5,0
+250,60000,450,12,3,7,0
+1500,1500000,300,2,120,3,1
+1800,1300000,350,1,150,2,1
+300,70000,420,9,2,8,0
